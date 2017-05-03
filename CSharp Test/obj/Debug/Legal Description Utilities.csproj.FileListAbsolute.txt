@@ -1,0 +1,14 @@
+\\Mac\Home\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\bin\Debug\CSharp Test.exe.config
+\\Mac\Home\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\bin\Debug\CSharp Test.exe
+\\Mac\Home\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\bin\Debug\CSharp Test.pdb
+\\Mac\Home\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\obj\Debug\Legal Description Utilities.csprojResolveAssemblyReference.cache
+\\Mac\Home\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\obj\Debug\Legal Description Utilities.csproj.ResolveComReference.cache
+\\Mac\Home\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\obj\Debug\CSharp_Test.Form1.resources
+\\Mac\Home\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\obj\Debug\CSharp_Test.Properties.Resources.resources
+\\Mac\Home\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\obj\Debug\Legal Description Utilities.csproj.GenerateResource.Cache
+\\Mac\Home\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\obj\Debug\CSharp Test.exe
+\\Mac\Home\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\obj\Debug\CSharp Test.pdb
+\\Mac\Home\odrive\Dropbox\My Work\Software Dev\Software 2017\LegalUtility_CSharp\CSharp Test\bin\Debug\CSharp Test.exe.config
+\\Mac\Home\odrive\Dropbox\My Work\Software Dev\Software 2017\LegalUtility_CSharp\CSharp Test\obj\Debug\Legal Description Utilities.csproj.ResolveComReference.cache
+\\Mac\Home\odrive\Dropbox\My Work\Software Dev\Software 2017\LegalUtility_CSharp\CSharp Test\obj\Debug\CSharp Test.exe
+\\Mac\Home\odrive\Dropbox\My Work\Software Dev\Software 2017\LegalUtility_CSharp\CSharp Test\obj\Debug\CSharp Test.pdb

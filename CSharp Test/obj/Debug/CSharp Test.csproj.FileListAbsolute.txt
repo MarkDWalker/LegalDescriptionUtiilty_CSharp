@@ -1,0 +1,20 @@
+Y:\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\bin\Debug\CSharp Test.exe.config
+Y:\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\bin\Debug\CSharp Test.exe
+Y:\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\bin\Debug\CSharp Test.pdb
+Y:\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\obj\Debug\CSharp Test.csprojResolveAssemblyReference.cache
+Y:\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\obj\Debug\CSharp_Test.Form1.resources
+Y:\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\obj\Debug\CSharp_Test.Properties.Resources.resources
+Y:\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\obj\Debug\CSharp Test.csproj.GenerateResource.Cache
+Y:\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\obj\Debug\CSharp Test.exe
+Y:\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\obj\Debug\CSharp Test.pdb
+Y:\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\obj\Debug\CSharp Test.csproj.ResolveComReference.cache
+\\Mac\Home\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\bin\Debug\CSharp Test.exe.config
+\\Mac\Home\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\obj\Debug\CSharp Test.csproj.ResolveComReference.cache
+\\Mac\Home\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\obj\Debug\CSharp Test.exe
+\\Mac\Home\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\obj\Debug\CSharp Test.pdb
+\\Mac\Home\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\obj\Debug\CSharp Test.csprojResolveAssemblyReference.cache
+\\Mac\Home\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\obj\Debug\CSharp_Test.Form1.resources
+\\Mac\Home\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\obj\Debug\CSharp_Test.Properties.Resources.resources
+\\Mac\Home\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\obj\Debug\CSharp Test.csproj.GenerateResource.Cache
+\\Mac\Home\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\bin\Debug\CSharp Test.exe
+\\Mac\Home\odrive\Dropbox\My Work\Software Dev\Software 2017\CSharp Test\CSharp Test\bin\Debug\CSharp Test.pdb
